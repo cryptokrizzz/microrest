@@ -1,0 +1,3 @@
+# Readme
+
+Simple REST client.
